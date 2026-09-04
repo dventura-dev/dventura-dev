@@ -24,21 +24,9 @@
 </div>
 
 <!-- Línea divisoria tecnológica -->
-<p align="center">
-  <svg width="100%" height="20" viewBox="0 0 1200 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 10H450L470 2H500L520 18H550L570 10H1200" stroke="url(#neonGrad)" stroke-width="2"/>
-    <defs>
-      <linearGradient id="neonGrad" x1="0" y1="10" x2="1200" y2="10" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#003B5C" stop-opacity="0"/>
-        <stop offset="0.25" stop-color="#4ECEC9"/>
-        <stop offset="0.5" stop-color="#68C800"/>
-        <stop offset="0.75" stop-color="#FFD000"/>
-        <stop offset="1" stop-color="#003B5C" stop-opacity="0"/>
-      </linearGradient>
-    </defs>
-  </svg>
-</p>
-
+<div align="center">
+  <img src="./divider.svg" width="100%" />
+</div>
 <!-- ============================================ -->
 <!--                 BANNER                       -->
 <!-- ============================================ -->

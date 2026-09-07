@@ -16,16 +16,23 @@
 
 ## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Daniel Antonio Ventura Ramos
 
+<p align="center">
+  <img src="./divider.svg" width="100%" alt="Line Divider" />
+</p>
 ### Web Developer & Designer
 I design and build modern, responsive web applications.
 
 * 🌍  I'm based in El Salvador
 * ✉️  You can contact me at [danielantonioventuraramos41@gmail.com](mailto:danielantonioventuraramos41@gmail.com)
 
----
+<p align="center">
+  <img src="./divider.svg" width="100%" alt="Line Divider" />
+</p>
 
 ### 🛠️ Skills & Technologies
-
+<p align="center">
+  <img src="./divider.svg" width="100%" alt="Line Divider" />
+</p>
 **💻 Programming Languages**
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36" /></a>
@@ -77,21 +84,29 @@ I design and build modern, responsive web applications.
   <a href="https://www.blender.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" width="36" height="36" /></a>
 </p>
 
----
+<p align="center">
+  <img src="./divider.svg" width="100%" alt="Line Divider" />
+</p>
 
 ### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/dventura-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=dventura-dev&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=4ade80" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight.vercel.app/api?username=dventura-dev&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=00f3ff&icon_color=00f3ff" alt="GitHub Stats" width="45%" />
   </a>
-  <br><br>
   <a href="https://github.com/dventura-dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dventura-dev&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Lenguajes más usados" />
+    <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=dventura-dev&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=00f3ff" alt="Top Languages" width="45%" />
+  </a>
+  
+  <br><br>
+
+  <a href="https://github.com/dventura-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dventura-dev&theme=dark&hide_border=true&stroke=00f3ff&ring=00f3ff&fire=00f3ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f3ff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="80%" />
   </a>
 </div>
-
----
+<p align="center">
+  <img src="./divider.svg" width="100%" alt="Line Divider" />
+</p>
 ### 🌐 <span style="color: #00f3ff;">Let's Connect</span>
 
 <p align="left">

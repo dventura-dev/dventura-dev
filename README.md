@@ -33,7 +33,7 @@ I design and build modern, responsive web applications.
 <p align="center">
   <img src="./divider.svg" width="100%" alt="Line Divider" />
 </p>
-**💻 Programming Languages**
+💻 Programming Languages
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36" /></a>
@@ -90,23 +90,16 @@ I design and build modern, responsive web applications.
 📊 GitHub Stats
 
 <div align="center">
-  <!-- Streak Stats (Racha) -->
   <a href="https://github.com/dventura-dev">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dventura-dev&theme=dark&hide_border=true&stroke=00f3ff&ring=00f3ff&fire=00f3ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f3ff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="85%" />
   </a>
-
-  <br><br>
-
-  <!-- Activity Graph (Gráfico de Actividad Neón) -->
-  <a href="https://github.com/dventura-dev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dventura-dev&theme=github-dark&color=00f3ff&line=00f3ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="85%" />
-  </a>
 </div>
 
-<!-- Divisor Neón -->
 <p align="center">
-  <img src="data:image/svg+xml;utf8,<svg width='1200' height='20' viewBox='0 0 1200 20' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M0 10H450L470 2H500L520 18H550L570 10H1200' stroke='url(%23neonGrad)' stroke-width='3'/><defs><linearGradient id='neonGrad' x1='0' y1='10' x2='1200' y2='10' gradientUnits='userSpaceOnUse'><stop stop-color='%23003B5C' stop-opacity='0'/><stop offset='0.25' stop-color='%234ECEC9'/><stop offset='0.5' stop-color='%2368C800'/><stop offset='0.75' stop-color='%23FFD000'/><stop offset='1' stop-color='%23003B5C' stop-opacity='0'/></linearGradient></defs></svg>" width="100%" alt="Neon Divider" />
+  <img src="./divider.svg" width="100%" alt="Line Divider" />
 </p>
+
+
 
 ### 🌐 Let's Connect
 

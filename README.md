@@ -87,21 +87,19 @@ I design and build modern, responsive web applications.
 <p align="center">
   <img src="./divider.svg" width="100%" alt="Line Divider" />
 </p>
-
-### 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
+  <!-- Streak Stats (Racha) -->
   <a href="https://github.com/dventura-dev">
-    <img src="https://github-readme-stats-salesp0un.vercel.app/api?username=dventura-dev&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=00f3ff&icon_color=00f3ff" alt="GitHub Stats" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dventura-dev&theme=dark&hide_border=true&stroke=00f3ff&ring=00f3ff&fire=00f3ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f3ff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="85%" />
   </a>
-  <a href="https://github.com/dventura-dev">
-    <img src="https://github-readme-stats-salesp0un.vercel.app/api/top-langs/?username=dventura-dev&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=00f3ff" alt="Top Languages" width="45%" />
-  </a>
-  
+
   <br><br>
 
+  <!-- Activity Graph (Gráfico de Actividad Neón) -->
   <a href="https://github.com/dventura-dev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dventura-dev&theme=dark&hide_border=true&stroke=00f3ff&ring=00f3ff&fire=00f3ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f3ff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="80%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dventura-dev&theme=github-dark&color=00f3ff&line=00f3ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="85%" />
   </a>
 </div>
 

@@ -110,7 +110,7 @@ I design and build modern, responsive web applications.
   <a href="https://www.linkedin.com/in/dventura-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://tu-portafolio.com" target="_blank">
+  <a href="https://portafolio-dv.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00F3FF?style=for-the-badge&logo=globe&logoColor=0d1117" alt="Portfolio" />
   </a>
   <a href="mailto:danielantonioventuraramos41@gmail.com">
